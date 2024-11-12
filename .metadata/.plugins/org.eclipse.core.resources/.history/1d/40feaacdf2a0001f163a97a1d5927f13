@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Student-Microservice">
+        <property name="context-root" value="Student-Microservice"/>
+        <property name="java-output-path" value="/Student-Microservice/target/classes"/>
+    </wb-module>
+</project-modules>
